@@ -1,0 +1,8 @@
+[package]
+name = "duration-string"
+version = "0.1.0"
+authors = ["Matt 961 <matt961@protonmail.ch>"]
+
+publish = false
+
+[dependencies]
